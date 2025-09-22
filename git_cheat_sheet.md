@@ -1,4 +1,7 @@
+#Header1
+##Header3
 git add: pastes new changes to file\git status: lists what changes were made to file
+#Header1
 git add: pastes new changes to file and leads file to staging area
 git status: lists what changes were made to file
 git commit -m: to comment commit
